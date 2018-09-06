@@ -12,6 +12,9 @@ button:focus {
 button:active {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
-p {
+p, h2 {
   text-align: center;
+  color: #000;
+  background-color: inherit;
+  font-family: Arial;
 }
