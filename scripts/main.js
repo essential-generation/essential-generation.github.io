@@ -70,3 +70,15 @@ function prison(){
   var suffixtb = suffixt[suffixta];
   document.getElementById("prison").innerHTML = nameob + nametb + " " + suffixob + " " + suffixtb;
 }
+function number_aaaa(){
+  var array_aaaa = ["1","2","3","4","5","6","7","8","9","10"];
+  var arraya_aaaa = Math.floor(Math.random() * array_aaaa.length);
+  var arrayb_aaaa = array_aaaa[arraya_aaaa];
+  document.getElementById("number_aaaa").innerHTML = arrayb_aaaa;
+}
+function number_aaab(){
+  var array_aaab = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20"];
+  var arraya_aaab = Math.floor(Math.random() * array_aaab.length);
+  var arrayb_aaab = array_aaab[arraya_aaab];
+  document.getElementById("number_aaab").innerHTML = arrayb_aaab;
+}
