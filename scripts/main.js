@@ -82,3 +82,21 @@ function number_aaab(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   document.getElementById("number_aaab").innerHTML = arrayb_aaab;
 }
+function number_aaac(){
+  var array_aaac = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30"];
+  var arraya_aaac = Math.floor(Math.random() * array_aaac.length);
+  var arrayb_aaac = array_aaac[arraya_aaac];
+  document.getElementById("number_aaac").innerHTML = arrayb_aaac;
+}
+function number_aaad(){
+  var array_aaad = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40"];
+  var arraya_aaad = Math.floor(Math.random() * array_aaad.length);
+  var arrayb_aaad = array_aaad[arraya_aaad];
+  document.getElementById("number_aaad").innerHTML = arrayb_aaad;
+}
+function number_aaae(){
+  var array_aaae = ["1","2","3","4","5","6","7","8","9","10","11","12","13","14","15","16","17","18","19","20","21","22","23","24","25","26","27","28","29","30","31","32","33","34","35","36","37","38","39","40","41","42","43","44","45","46","47","48","49","50"];
+  var arraya_aaae = Math.floor(Math.random() * array_aaae.length);
+  var arrayb_aaae = array_aaaea[arraya_aaae];
+  document.getElementById("number_aaae").innerHTML = arrayb_aaae;
+}
