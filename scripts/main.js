@@ -317,7 +317,7 @@ function number_aaar(){
   var arrayb_aaaa = array_aaaa[arraya_aaaa];
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
-  document.getElementById("num_aaar").innerHTML = "1" + arrayb_aaaa + arrayb_aaab + arrayb_aaac;
+  document.getElementById("num_aaar").innerHTML = "1," + arrayb_aaaa + arrayb_aaab + arrayb_aaac;
 }
 function number_aaas(){
   var array_aaaa = ["1","2"];
@@ -332,7 +332,7 @@ function number_aaas(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaas").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaas").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaat(){
   var array_aaaa = ["1","2","3"];
@@ -347,7 +347,7 @@ function number_aaat(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaat").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaat").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaau(){
   var array_aaaa = ["1","2","3","4"];
@@ -362,7 +362,7 @@ function number_aaau(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaau").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaau").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaav(){
   var array_aaaa = ["1","2","3","4","5"];
@@ -377,7 +377,7 @@ function number_aaav(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaav").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaav").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaaw(){
   var array_aaaa = ["1","2","3","4","5","6"];
@@ -392,7 +392,7 @@ function number_aaaw(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaaw").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaaw").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaax(){
   var array_aaaa = ["1","2","3","4","5","6","7"];
@@ -407,7 +407,7 @@ function number_aaax(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaax").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaax").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaay(){
   var array_aaaa = ["1","2","3","4","5","6","7","8"];
@@ -422,7 +422,7 @@ function number_aaay(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaay").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaay").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaaz(){
   var array_aaaa = ["1","2","3","4","5","6","7","8","9"];
@@ -437,7 +437,7 @@ function number_aaaz(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaaz").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaaz").innerHTML = arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aaba(){
   var array_aaaa = ["0","1","2","3","4","5","6","7","8","9"];
@@ -452,7 +452,7 @@ function number_aaba(){
   var arrayb_aaab = array_aaab[arraya_aaab];
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
-  document.getElementById("num_aaba").innerHTML = "1" + arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad;
+  document.getElementById("num_aaba").innerHTML = "1" + arrayb_aaaa + "," + arrayb_aaab + arrayb_aaac + arrayb_aaad;
 }
 function number_aabb(){
   var array_aaaa = ["1","2"];
@@ -470,7 +470,7 @@ function number_aabb(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabb").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabb").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabc(){
   var array_aaaa = ["1","2","3"];
@@ -488,7 +488,7 @@ function number_aabc(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabc").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabc").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabd(){
   var array_aaaa = ["1","2","3","4"];
@@ -506,7 +506,7 @@ function number_aabd(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabd").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabd").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabe(){
   var array_aaaa = ["1","2","3","4","5"];
@@ -524,7 +524,7 @@ function number_aabe(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabe").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabe").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabf(){
   var array_aaaa = ["1","2","3","4","5","6"];
@@ -542,7 +542,7 @@ function number_aabf(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabf").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabf").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabg(){
   var array_aaaa = ["1","2","3","4","5","6","7"];
@@ -560,7 +560,7 @@ function number_aabg(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabg").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabg").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabh(){
   var array_aaaa = ["1","2","3","4","5","6","7","8"];
@@ -578,7 +578,7 @@ function number_aabh(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabh").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabh").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
 function number_aabi(){
   var array_aaaa = ["1","2","3","4","5","6","7","8","9"];
@@ -596,5 +596,5 @@ function number_aabi(){
   var arrayb_aaac = array_aaac[arraya_aaac];
   var arrayb_aaad = array_aaad[arraya_aaad];
   var arrayb_aaae = array_aaae[arraya_aaae];
-  document.getElementById("num_aabi").innerHTML = arrayb_aaaa + arrayb_aaab + arrayb_aaac + arrayb_aaad + arrayb_aaae;
+  document.getElementById("num_aabi").innerHTML = arrayb_aaaa + arrayb_aaab + "," + arrayb_aaac + arrayb_aaad + arrayb_aaae;
 }
