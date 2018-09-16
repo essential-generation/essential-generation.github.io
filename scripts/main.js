@@ -1,6 +1,7 @@
 function ajaxGen(){
   var xmlhttp = new XMLHttpRequest();
   xmlhttp.open("GET","/scripts/php/main.php",true);
+  xmlhttp.send();
 }
 function malename(){
   var fnames = ["Wade","Dominic","Dominick","Derek","Alex","Alexander","Marcus","Markus","Arnold","Aaron","Abraham","Adam","Albert","Earl","Greg","Gregory","Alan","Allan","Allen","Andy","Oliver","Nolan","Joel","Noah","Nigel","Bryce","Dave","Darren","Daryl","David","Dean","Donald","Marshall","Doug","Douglas","Drew","Luke","Lucas","Paul","Dante","Donte","Elias","Franklin","Frank","Jack","Zach","Zack","Zachary","Zackary","Patrick","Pat","Owen","Peter","Pete","Will","Stuart","Steven","Steve","Vince","Vincent","Trevor","Trey","Trent","Trenton","Todd","Thomas","John","Joe","Shawn","Sean","James","Jaymes","Kyle","Tom","Wyatt","Aldo","Fred","Alfred","Blaine","Benny","Bennie","Brad","Bradley","Bradly","Bryan","Brian","Brent","Brenton","Caleb","Kaleb","Kris","Cris","Chris","Carl","Karl","Claude","Clay","Clayton","Clement","Cliff","Clifford","Dale","Dallas","Dalton","Curt","Curtis","Danny","Dan","Daniel","Danial","Daron","Darron","Denny","Dennis","Derrick","Derick","Dominique","Dom","Dustin","Dusty","Gerald","Gilbert","Brett","Nate","Nathan","Bob","Anthony","Heath","Bruno","Bill"];
