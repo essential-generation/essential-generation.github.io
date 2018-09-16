@@ -15,4 +15,27 @@
   $prison_aaab = array("light","spell","burn","burgh","burg","gate","wind","bush","port","maple","keep","marble","barrow","pond","view","castle","meadow","beach"," Creek"," Woods"," Spring"," Springs"," Castle"," Crow"," Forest"," Fortress"," Garden"," Mountain"," Valley"," Tower"," Bridge"," Gate"," Cove"," Heart");
   $prison_aaac = array("Regional","Juvenile","State","National","Minimum Security","Low Security","Medium Security","High Security","Maximum Security","Federal");
   $prison_aaad = array("Penitentiary","Prison","Detention Center","Holding Center","Correctional Facility","Correctional Center","Correctional Institute","Correctional Institution","Institution");
+  $a = array_rand($malefnames,1);
+  $b = array_rand($femalefnames,1);
+  $c = array_rand($lnames,1);
+  $d = array_rand($town_aaaa,1);
+  $e = array_rand($town_aaab,1);
+  $f = array_rand($place_aaaa,1);
+  $g = array_rand($place_aaab,1);
+  $h = array_rand($road_aaaa,1);
+  $i = array_rand($road_aaab,1);
+  $j = array_rand($bank_aaaa,1);
+  $k = array_rand($bank_aaab,1);
+  $l = array_rand($bank_aaac,1);
+  $m = array_rand($prison_aaaa,1);
+  $n = array_rand($prison_aaab,1);
+  $o = array_rand($prison_aaac,1);
+  $p = array_rand($prison_aaad,1);
+  $q = $a + " " + $c;
+  $r = $b + " " + $c;
+  $s = $d + $e;
+  $t = $f + $g;
+  $u = $h + $i;
+  $v = $j + $k + $l;
+  $w = $m + $n + $o + $p;
 ?>
